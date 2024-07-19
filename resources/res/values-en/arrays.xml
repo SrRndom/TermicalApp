@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colorType">
+        <item>IronRed</item>
+        <item>Rainbow</item>
+        <item>WhiteHot</item>
+        <item>BlueOrange</item>
+        <item>BlueYellow</item>
+    </array>
+    <array name="tempRange">
+        <item>AutoTrack</item>
+        <item>Manual</item>
+    </array>
+</resources>

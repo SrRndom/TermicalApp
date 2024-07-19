@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LR_REVERT">Mirr Hori</string>
+    <string name="TB_REVERT">Mirr Vert</string>
+    <string name="TempUnit">℉</string>
+    <string name="ambTemp">AmbTemp:</string>
+    <string name="ambTemp_def">AmbTemp: 25.0</string>
+    <string name="app_name">TinyThermalImager</string>
+    <string name="centTemp">CentTemp:</string>
+    <string name="centTemp_def">CentTemp: 25.0</string>
+    <string name="chinese">中文(chinese)</string>
+    <string name="colorType">ColorPalette：</string>
+    <string name="emiss">Emissivity</string>
+    <string name="emissVal">0.95</string>
+    <string name="english">英文(english)</string>
+    <string name="land_rev">landRevert</string>
+    <string name="maxTemp">MaxTemp:</string>
+    <string name="maxTemp_def">MaxTemp: 25.0</string>
+    <string name="minTemp">MinTemp:</string>
+    <string name="minTemp_def">MinTemp: 25.0</string>
+    <string name="saveImage">SaveImage</string>
+    <string name="setEmiss">SetEmiss</string>
+    <string name="tempHigh">PaletteUpper：</string>
+    <string name="tempHighVal">35</string>
+    <string name="tempLow">PaletteLower：</string>
+    <string name="tempLowVal">25</string>
+    <string name="tempRange">PaletteScale：</string>
+</resources>

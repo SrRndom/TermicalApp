@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colorType">
+        <item>铁红模式</item>
+        <item>彩虹模式</item>
+        <item>白热模式</item>
+        <item>蓝橙模式</item>
+        <item>蓝黄模式</item>
+    </array>
+    <array name="tempRange">
+        <item>自动跟随</item>
+        <item>手动设置</item>
+    </array>
+</resources>
